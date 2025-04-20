@@ -1,10 +1,10 @@
 # Spartan Statistical Association PyMC Tutorial
 
-This repository holds all the code and instructions used in the PyMC tutorial presented to the Spartian Statistical Association in April 2025
+This repository holds all the code and instructions used in the PyMC tutorial presented to the Spartan Statistical Association in April 2025
 
 This tutorial covers the modern Bayesian modeling workflow. Specifically, it answers the question, "what is a Probabilistic Programming Language (PPL), and why should I care?". We will do a modeling project from start to finish, focusing on how to incrementally add complexity and check that the model is doing what we want expect.
 
-The tutorial is written for complete beginners to Python and Bayesian statics, so "incidental" topics, such as different probability distributions, probability theory, algorithms, and numerical computation, will come up. But the focus will be 100% on how to interact with these as a practicioner. Indeed, the point of a PPL is to hide these details!
+The tutorial is written for complete beginners to Python and Bayesian statics, so "incidental" topics, such as different probability distributions, probability theory, algorithms, and numerical computation, will come up. But the focus will be 100% on how to interact with these as a practitioner. Indeed, the point of a PPL is to hide these details!
 
 # Installation
 
