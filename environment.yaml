@@ -1,0 +1,20 @@
+name: spartan-pymc 
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  # Core dependencies
+  - python=3.12
+  - pymc
+  - pytensor
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - preliz
+  - nutpie
+  - pymc-extras
+  - jax
+  - notebook
+  - pip
+
