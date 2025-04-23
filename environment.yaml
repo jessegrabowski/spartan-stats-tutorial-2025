@@ -16,5 +16,6 @@ dependencies:
   - pymc-extras
   - jax
   - notebook
+  - ipywidgets
   - pip
 
